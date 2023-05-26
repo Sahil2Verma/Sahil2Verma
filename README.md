@@ -26,6 +26,6 @@ I have set the following goals for myself:
 I'm always excited to connect with fellow developers and designers. Feel free to reach out to me through the following channels:
 
 - Email: lihas.verma1234567890@gmail.com
-- GitHub: 
+- GitHub: github.com/Sahil2Verma
 
 Let's collaborate and learn together!
