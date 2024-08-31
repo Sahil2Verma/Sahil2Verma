@@ -1,12 +1,12 @@
 # Sahil Verma
 
 ## Introduction
-Hello! I'm Sahil Verma, a passionate learner who is currently focused on Java and C++ programming languages. I'm also enthusiastic about designing, which allows me to blend creativity with technical skills. This README serves as an introduction to my interests, skills, and projects.
+Hello! I'm Sahil Verma, a passionate learner who is currently focused on Python and Java programming languages. I'm also enthusiastic about designing, which allows me to blend creativity with technical skills. This README serves as an introduction to my interests, skills, and projects.
 
 ## Skills
-- Programming Languages: Java, C++
+- Programming Languages: Python, Java
 - Web Technologies: HTML, CSS
-- Design Tools: GIMP
+- Design Tools: GIMP, Canva
 - Version Control: Git
 
 ## Projects
